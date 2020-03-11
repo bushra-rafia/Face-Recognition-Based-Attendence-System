@@ -1,0 +1,9 @@
+body {
+
+  background-image: url("h.png") ;
+  background-repeat: no-repeat;
+ /* background-color: #cccccc;*/
+  /*background-size: cover;
+   /* You must set a specified height */
+  background-position: center;
+}
